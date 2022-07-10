@@ -17198,7 +17198,7 @@ ul.v2_bnc_menu_list ul.v2_bnc_menu_sub li a:hover {
     transform: scale(1.1)
 }
 
-.v2_bnc_footer_brands {
+/* .v2_bnc_footer_brands {
     padding: 15px 0;
     background: #002a5e
 }
@@ -17215,7 +17215,7 @@ ul.v2_bnc_menu_list ul.v2_bnc_menu_sub li a:hover {
 .v2_bnc_footer_brands_item img:hover {
     -webkit-filter: grayscale(0);
     filter: grayscale(0)
-}
+} */
 
 .v2_bnc_footer_top {
     padding: 45px 0
