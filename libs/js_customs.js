@@ -126,9 +126,6 @@ $(document).ready(function(){
             1024:{
                 items:3,
             },
-            1025:{
-                items:4,
-            }
         }
     });
     $('.owl-feedback-item').owlCarousel({
