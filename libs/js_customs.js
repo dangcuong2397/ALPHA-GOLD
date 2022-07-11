@@ -227,9 +227,6 @@ $(document).ready(function(){
             1024:{
                 items:4,
             },
-            1025:{
-                items:5,
-            }
         }
     });
 });
