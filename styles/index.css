@@ -17071,7 +17071,6 @@ ul.v2_bnc_menu_list ul.v2_bnc_menu_sub li a:hover {
     left: 0;
     width: 206px;
     height: 418px;
-    background: url(../imgs/bg-logo.png) center center/cover
 }
 
 @-webkit-keyframes imageScaleAnimation {
@@ -18380,7 +18379,7 @@ body {
 .v2_bnc_home_catepr_main:before {
     content: "";
     position: absolute;
-    background: url(../imgs/bg_du_an.png) center center/cover;
+    background: url(/images/bg_du_an.png) center center/cover;
     width: 528px;
     height: 100%
 }
