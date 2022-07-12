@@ -19512,3 +19512,8 @@ ul#citySearchMap li p {
     -webkit-box-orient: vertical;
     white-space: normal;
 }
+.bnc_menu_mobile_home{
+    position: absolute;
+    height: 60px; 
+    object-fit: cover;
+}
